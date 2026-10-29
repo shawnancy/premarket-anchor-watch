@@ -24,6 +24,12 @@
 
 完整报告：[`report/空投比例公布盘前合约回测_20261029.docx`](report/)；表格数据：[`data/`](data/)。
 
+## 图
+
+![PREDICT](charts/1_predict_fdv_timeline.png)
+![MON](charts/2_mon_fdv_timeline.png)
+![6 次事件](charts/3_anchor_ratio_vs_24h.png)
+
 ## 监控做什么
 
 每 5 分钟一轮：
