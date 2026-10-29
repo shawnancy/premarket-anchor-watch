@@ -1,0 +1,9 @@
+__pycache__/
+state.json
+events.jsonl
+watch.log
+cron.log
+heartbeat.txt
+.fatal_alerted
+*.tmp
+config.local.json

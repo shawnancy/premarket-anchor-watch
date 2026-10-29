@@ -1,0 +1,60 @@
+[
+ {
+  "name": "MON Coinbase 公募(真实推文)",
+  "sym": "MON",
+  "mark": 0.06412,
+  "expect": "SHORT",
+  "text": "Monad $MON Public Sale Announced 🔥 Monad has announced its upcoming $MON token sale on Coinbase. Key details: ▫️ Token sale: Nov 17 to Nov 22 ▫️ Sale price: $0.025 / token ($2.5B FDV) ▫️ Tokens for sale: 7.5%"
+ },
+ {
+  "name": "ZAMA 币安打新 买1送1(真实推文)",
+  "sym": "ZAMA",
+  "mark": 0.045,
+  "expect": "SHORT",
+  "text": "🚨 $ZAMA Pre-TGE Prime Sale on Binance - Date: Jan 29, 2026 (08:00–10:00 UTC) - Supply: 2% - Total raise: $11M (in BNB) - Price: $0.05 (~$550M FDV) 🚨 Important: Participants receive 1 bonus $ZAMA for every token"
+ },
+ {
+  "name": "PREDICT Prime Sale 只给 FDV+占比(真实推文)",
+  "sym": "PREDICT",
+  "mark": 1.665,
+  "expect": "SHORT",
+  "text": "https://t.co/Y0vvBQBaN5 (PREDICT) Pre-TGE on #BinanceWallet 🔮 📅 Oct 29, 08:00–10:00 UTC (Binance Alpha Points needed) 🪙 20M tokens (2% of supply), raising about 7,794 BNB at a $300M FDV 👤 6 BNB max per person 📈 Pre-market sits around"
+ },
+ {
+  "name": "KAT 打新FDV, 总量靠之前记住的(真实推文)",
+  "sym": "KAT",
+  "mark": 0.01708,
+  "known_supply": 10000000000,
+  "expect": "SHORT",
+  "text": "@katana $KAT • Sale Date on @BinanceWallet: Mar 16, 12:00 UTC • Sale FDV: $90M • Listing Date on Binance: Mar 18, 13:00 UTC"
+ },
+ {
+  "name": "PREDICT 代币经济学 空投7% 无锚(真实推文)",
+  "sym": "PREDICT",
+  "mark": 1.42,
+  "expect": "WATCH",
+  "text": "Predict .fun tokenomics & airdrop details are out. - Ticker: $PREDICT - Total supply: 1B - Season 1 airdrop: 7% of the total supply But there's a catch with claiming"
+ },
+ {
+  "name": "阴性: 只有盘前FDV 不是锚",
+  "sym": "EDGE",
+  "mark": 0.7,
+  "expect": null,
+  "text": "[🌍 Pre-Market Signal] March 20 1. Trending projects' Pre-Market FDV $MEZO @MezoNetwork $87M $EDGE @edgeX_exchange $695M"
+ },
+ {
+  "name": "阴性: 空投25% 不推",
+  "sym": "LIT",
+  "mark": 3.0,
+  "expect": null,
+  "text": "Perp DEX @Lighter_xyz launches $LIT with a 25% airdrop. Trade the $LIT market cap (FDV) now on 42."
+ },
+ {
+  "name": "阴性: 盘前价写成 Price(真实推文, 曾误判反向)",
+  "sym": "PREDICT",
+  "mark": 1.27,
+  "expect": null,
+  "anchor_known": true,
+  "text": "Binance Wallet $PREDICT Pre-TGE Sale Officially Ended! Pre-Market Price: $1.3 per token My Allocation: 409 $PREDICT Now waiting for listed"
+ }
+]

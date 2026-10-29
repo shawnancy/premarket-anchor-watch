@@ -1,0 +1,23 @@
+{
+ "twitterapi_key_file": "~/.config/premarket-anchor-watch/twitterapi.key",
+ "notify_dir": "",
+ "extra_symbols": [],
+ "names": {
+  "PREDICT": "predict.fun"
+ },
+ "supply": {},
+ "airdrop_lt": 10,
+ "x_daily_call_cap": 600,
+ "x_fail_alert_after": 6,
+ "history_note": {
+  "short": "历史: 盘前期间公布锚且盘前高于锚 6 次, 24h 全跌(-3%~-22%), 4h 5/6 跌; MON 15 分钟就跌, 其余多在 1h 后才慢跌。跌幅和溢价不成正比。仅供参考, 非下单指令。",
+  "reverse": "历史上 CEX 数据里没有干净的反向样本(币安钱包 9 期打新+Coinbase 公募全是锚<盘前), 这是新样本, 1h/4h/24h 收益会自动记录。",
+  "low_airdrop": "历史 3 次(PREDICT 1h +24.5% / MON 不动 / SXT 24h +12.8%), 样本太少, 不构成信号; 等估值锚出来再判。"
+ },
+ "known_anchor": {
+  "PREDICT": {
+   "anchor_fdv": 300000000,
+   "note": "币安钱包 Prime Sale 2026-10-28 公布"
+  }
+ }
+}
